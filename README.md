@@ -1,2 +1,2 @@
 # RNAseq_homework
-HW1: nextflow pipeline and google colab notebook
+branch HW1: nextflow pipeline and google colab notebook
